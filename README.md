@@ -24,9 +24,9 @@ This offering of course is from Fall 2023.
 
 # Assessment Criterion
 The final lab report can be treated as excellent if the following key points are involved:
-- ROS principles
-- Software design principles
-- Mathematical model analysis of Rardar tracking
+- ROS principles.
+- Software design principles (Understanding of code & Process of debugging). 
+- Rardar tracking mathematical model analysis.
 
 # 
 If you have any questions, please do not hesitate to contact the following persons
