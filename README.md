@@ -19,7 +19,10 @@ AMA2111 Mathematics I or AMA2112 Mathematics II
 | [Course Materials (Required)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/Course%20Materials)   | Teaching Slides     | N/A            |
 | [ROS (Required)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/ROS)                                 | ROS Tutorial & User Guide Mannual                                                | N/A            |
 | [STM32 (Required)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/STM32)                               | Embedded Program Development Manual and Hardware Configuration Manual          | N/A            |
+| [User Guide.pdf (Required)]([https://github.com/sdjkjsdh/AAE3004labsession/tree/main/Basic%20control%20guide/Bluetooth%20App%20(for%20testing%20remote%20control)](https://github.com/sdjkjsdh/AAE3004labsession/blob/main/User%20Guide.pdf))                | Course project practical training instructions                                            | N/A            |
+
 | [Basic Control Guide (Optional)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/Basic%20control%20guide/Bluetooth%20App%20(for%20testing%20remote%20control))                | Blutooth App Connection Configuration                                            | N/A            |
+
 
 
 # Q&A
