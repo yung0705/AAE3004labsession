@@ -23,7 +23,7 @@ AMA2111 Mathematics I or AMA2112 Mathematics II
 2. Solutions will also be provided in [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) for **Common Questions**. 
 
 # Assessment Criterion
-The final lab report can be treated as excellent if the following key points are involved:
+The final lab report can be treated as excellent if the following key points are well presented:
 - ROS principles (Understanding of **ROS Nodes**).
 - Software design principles (Understanding of code & Process of debugging). 
 - Rardar tracking principles (Mathematical model analysis).
