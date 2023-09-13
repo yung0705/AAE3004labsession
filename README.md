@@ -15,10 +15,9 @@ AMA2111 Mathematics I or AMA2112 Mathematics II
 # Reporsitory Directory
 |                                    |  Topic                                 | Assignments Due|
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:--------------:|
-| [Basic Control Guide(Optional)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/Basic%20control%20guide/Bluetooth%20App%20(for%20testing%20remote%20control))                | Blutooth App Connection Configuration                                            | N/A            |  
 | [ROS(Required)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/ROS)                                 | ROS Tutorial & User Guide Mannual                                                | N/A            |
 | [STM32(Required)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/STM32)                               | Embedded Program Development Manual and Hardware Configuration Manual            | N/A            |
-
+| [Basic Control Guide(Optional)](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/Basic%20control%20guide/Bluetooth%20App%20(for%20testing%20remote%20control))                | Blutooth App Connection Configuration                                            | N/A            |
 
 
 # Q&A
