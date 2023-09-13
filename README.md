@@ -33,7 +33,7 @@ If you have any questions, please do not hesitate to contact the following perso
 
 - Dr. Weisong Wen (welson.wen@polyu.edu.hk)
 - Mr. Jian Liu (jian1.liu@polyu.edu.hk)
-- Mr. Baoshan Song ()
+- Mr. Baoshan Song (baoshan.song@connect.polyu.hk)
 
 # License
 All code is licensed under the [GNU General Public License v3.0](https://github.com/sdjkjsdh/AAE3004labsession/blob/main/LICENSE).
