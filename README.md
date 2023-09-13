@@ -19,8 +19,7 @@ This offering of course is from Fall 2023.
 
 
 # Q&A
-Encourage to use the [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) to ask questions and search answers.
-
+1. Encourage to use the [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) to ask questions and search answers.
 
 # Assessment Criterion
 
@@ -31,3 +30,5 @@ Dr. Weisong Wen (welson.wen@polyu.edu.hk)
 
 Mr. Jian Liu (jian1.liu@polyu.edu.hk)
 
+# License
+All code is licensed under the [GNU General Public License v3.0](https://github.com/sdjkjsdh/AAE3004labsession/blob/main/LICENSE).
