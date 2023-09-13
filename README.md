@@ -9,7 +9,7 @@ This offering of course is from Fall 2023.
 
 # Prerequisites
 
-### Reporsitory Directory
+# Reporsitory Directory
 |                                    |  Topic                                 | Assignments Due|
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:--------------:|
 | Basic Control Guide                | Blutooth App Connection Configuration                                            | N/A            |  
