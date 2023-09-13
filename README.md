@@ -6,16 +6,15 @@ Topics include control theory, the Robot Operating System (ROS), Linux, embedded
 This offering of course is from Fall 2023.
 ![1694584657987](https://github.com/sdjkjsdh/AAE3004labsession/assets/14803083/719ac399-1aca-4b8a-894e-592049372900)
 
-
-
 # Prerequisites
+AMA2111 Mathematics I or AMA2112 Mathematics II
 
 # Reporsitory Directory
 |                                    |  Topic                                 | Assignments Due|
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:--------------:|
-| Basic Control Guide                | Blutooth App Connection Configuration                                            | N/A            |  
-| ROS                                | ROS Tutorial & User Guide Mannual                                                | N/A            |
-| STM32                              | Embedded Program Development Manual and Hardware Configuration Manual            | N/A            |
+| [Basic Control Guide](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/Basic%20control%20guide/Bluetooth%20App%20(for%20testing%20remote%20control))                | Blutooth App Connection Configuration                                            | N/A            |  
+| [ROS](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/ROS)                                | ROS Tutorial & User Guide Mannual                                                | N/A            |
+| [STM32](https://github.com/sdjkjsdh/AAE3004labsession/tree/main/STM32)                              | Embedded Program Development Manual and Hardware Configuration Manual            | N/A            |
 
 
 
