@@ -24,7 +24,7 @@ AMA2111 Mathematics I or AMA2112 Mathematics II
 
 # Q&A
 1. Encourage to use the [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) to ask questions and search answers.
-2. Solutions will also be provided in [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) for **Common Questions**. 
+2. Solutions for **Common Questions** will also be provided in [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues). 
 
 # Assessment Criterion
 The final lab report can be treated as satisficatory if the following key points are well presented:
