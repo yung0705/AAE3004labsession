@@ -20,6 +20,7 @@ AMA2111 Mathematics I or AMA2112 Mathematics II
 
 # Q&A
 1. Encourage to use the [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) to ask questions and search answers.
+2. Solutions will also be provided in [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) for **Common Quesitons**. 
 
 # Assessment Criterion
 The final lab report can be treated as excellent if the following key points are involved:
