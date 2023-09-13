@@ -14,9 +14,7 @@ Though the manuals give you the essentials of what is required from the project,
 # 
 If you have any questions, please do not hesitate to contact the following persons
 
-Dr. Bing Xu (pbing.xu@polyu.edu.hk)
+Dr. Weisong Wen (welson.wen@polyu.edu.hk)
 
 Mr. Jian Liu (jian1.liu@polyu.edu.hk)
-
-Mr. Sergio Vicenzo (seergio.vicenzo@connect.polyu.hk)
 
