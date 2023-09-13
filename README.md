@@ -5,7 +5,7 @@ Topics include control theory, the Robot Operating System (ROS), Linux, embedded
 
 This offering of course is from Fall 2023.
 
-[Lab Seesion Group](https://docs.google.com/spreadsheets/d/1JgCgDI5YBD51z8D1CGiAQrO_7Jv1SJOf_4mxYuYfkLE/edit#gid=0
+[Lab Seesion Group](https://docs.google.com/spreadsheets/d/1JgCgDI5YBD51z8D1CGiAQrO_7Jv1SJOf_4mxYuYfkLE/edit#gid=0)
 
 ![image](https://github.com/sdjkjsdh/AAE3004labsession/assets/14803083/cd1fc4f1-b074-4cc2-bd22-d4e575e98da5))
 
