@@ -11,7 +11,7 @@ This offering of course is from Fall 2023.
 
 ### Reporsitory Directory
 |                                    |  Topic                                 | Assignments Due|
-|------------------------------------|---------------------------------------------------------------------------------:|:--------------:|
+|:----------------------------------:|:--------------------------------------------------------------------------------:|:--------------:|
 | Basic Control Guide                | Blutooth App Connection Configuration                                            | N/A            |  
 | ROS                                | ROS Tutorial & User Guide Mannual                                                | N/A            |
 | STM32                              | Embedded Program Development Manual and Hardware Configuration Manual            | N/A            |
