@@ -22,13 +22,17 @@ This offering of course is from Fall 2023.
 1. Encourage to use the [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) to ask questions and search answers.
 
 # Assessment Criterion
+The final lab report can be treated as excellent if the following key points are involved:
+- ROS principles
+- Software design principles
+- Mathematical model analysis of Rardar tracking
 
 # 
 If you have any questions, please do not hesitate to contact the following persons
 
 Dr. Weisong Wen (welson.wen@polyu.edu.hk)
-
 Mr. Jian Liu (jian1.liu@polyu.edu.hk)
+Mr. Baoshan Song ()
 
 # License
 All code is licensed under the [GNU General Public License v3.0](https://github.com/sdjkjsdh/AAE3004labsession/blob/main/LICENSE).
