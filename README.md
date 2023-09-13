@@ -13,10 +13,6 @@ This offering of course is from Fall 2023.
 
 # Assessment Criterion
 
-# Important Tips
-1. Please confirm that the cable connection of the newly received car is not loose
-2. Please confirm that all two switch on the side of the car is 'on' when you conduct the test
-
 # 
 If you have any questions, please do not hesitate to contact the following persons
 
