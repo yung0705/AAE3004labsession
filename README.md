@@ -1,11 +1,17 @@
-# Autonomous-Car-Control-Project
-Hello everyone!
-This repository is made for any discussions and sharing of codes for our autonomous car project. 
-In this project, you are expected to alter the ROS car's PID controller by accessing the car's STM32 source code.
-Attached, you can find several manuals and codes to help guide you through the project.
+# AAE3004 Lab Session
+AAE3004 is an undergraduate-level course at The Hong Kong Polytechnic University.
 
-Though the manuals give you the essentials of what is required from the project, you are expected explore the car's functions on your own!
+Topics include control theory, the Robot Operating System (ROS), Linux, embedded system (STM32).
 
+This offering of course is from Fall 2023.
+![909701c0a2dc6caf0e55dc860f393e7](https://github.com/sdjkjsdh/AAE3004labsession/assets/14803083/af6b13fd-eac9-4c98-adbf-b842a88c61dc)
+
+
+# Prerequisites
+
+# Q&A
+
+# Assessment Criterion
 
 # Important Tips
 1. Please confirm that the cable connection of the newly received car is not loose
