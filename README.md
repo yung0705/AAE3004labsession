@@ -24,7 +24,7 @@ AMA2111 Mathematics I or AMA2112 Mathematics II
 
 # Assessment Criterion
 The final lab report can be treated as excellent if the following key points are involved:
-- ROS principles.
+- ROS principles (Understanding of **ROS nodes**).
 - Software design principles (Understanding of code & Process of debugging). 
 - Rardar tracking principles (Mathematical model analysis).
 
