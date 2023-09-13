@@ -12,6 +12,9 @@ This offering of course is from Fall 2023.
 # Prerequisites
 AMA2111 Mathematics I or AMA2112 Mathematics II
 
+# Group Information
+- Fill in & query the group information at [here](https://docs.google.com/spreadsheets/d/1JgCgDI5YBD51z8D1CGiAQrO_7Jv1SJOf_4mxYuYfkLE/edit#gid=0)
+  
 # Reporsitory Directory
 |                                    |  Topic                                 | Assignments Due|
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:--------------:|
