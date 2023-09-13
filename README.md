@@ -4,6 +4,7 @@ AAE3004 is an undergraduate-level course at The Hong Kong Polytechnic University
 Topics include control theory, the Robot Operating System (ROS), Linux, embedded system (STM32).
 
 This offering of course is from Fall 2023.
+
 [Lab Seesion Group](https://docs.google.com/spreadsheets/d/1JgCgDI5YBD51z8D1CGiAQrO_7Jv1SJOf_4mxYuYfkLE/edit#gid=0
 ![image](https://github.com/sdjkjsdh/AAE3004labsession/assets/14803083/cd1fc4f1-b074-4cc2-bd22-d4e575e98da5))
 
