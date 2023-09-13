@@ -9,7 +9,18 @@ This offering of course is from Fall 2023.
 
 # Prerequisites
 
+### Reporsitory Directory
+|                                    |  Topic                                 | Assignments Due|
+|------------------------------------|---------------------------------------------------------------------------------:|:--------------:|
+| Basic Control Guide                | Blutooth App Connection Configuration                                            | N/A            |  
+| ROS                                | ROS Tutorial & User Guide Mannual                                                | N/A            |
+| STM32                              | Embedded Program Development Manual and Hardware Configuration Manual            | N/A            |
+
+
+
 # Q&A
+Encourage to use the [Issues](https://github.com/sdjkjsdh/AAE3004labsession/issues) to ask questions and search answers.
+
 
 # Assessment Criterion
 
